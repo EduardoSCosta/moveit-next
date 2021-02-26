@@ -1,0 +1,7 @@
+{
+  "editor.tabSize": 2,
+  "workbench.colorCustomizations": {
+    "tab.activeForeground": "#ffffff",
+    "tab.inactiveForeground": "#ffffff"
+  }
+}
